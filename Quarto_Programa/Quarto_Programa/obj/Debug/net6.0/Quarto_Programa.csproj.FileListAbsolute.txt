@@ -1,0 +1,15 @@
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\bin\Debug\net6.0\Quarto_Programa.exe
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\bin\Debug\net6.0\Quarto_Programa.deps.json
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\bin\Debug\net6.0\Quarto_Programa.runtimeconfig.json
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\bin\Debug\net6.0\Quarto_Programa.dll
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\bin\Debug\net6.0\Quarto_Programa.pdb
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.csproj.AssemblyReference.cache
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.AssemblyInfoInputs.cache
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.AssemblyInfo.cs
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.csproj.CoreCompileInputs.cache
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.dll
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\refint\Quarto_Programa.dll
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.pdb
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\Quarto_Programa.genruntimeconfig.cache
+C:\Users\informatica\source\repos\Quarto_Programa\Quarto_Programa\obj\Debug\net6.0\ref\Quarto_Programa.dll
