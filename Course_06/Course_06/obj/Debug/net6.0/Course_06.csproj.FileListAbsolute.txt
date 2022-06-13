@@ -1,0 +1,15 @@
+C:\Users\vivia\source\repos\Course_06\Course_06\bin\Debug\net6.0\Course_06.exe
+C:\Users\vivia\source\repos\Course_06\Course_06\bin\Debug\net6.0\Course_06.deps.json
+C:\Users\vivia\source\repos\Course_06\Course_06\bin\Debug\net6.0\Course_06.runtimeconfig.json
+C:\Users\vivia\source\repos\Course_06\Course_06\bin\Debug\net6.0\Course_06.dll
+C:\Users\vivia\source\repos\Course_06\Course_06\bin\Debug\net6.0\Course_06.pdb
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.csproj.AssemblyReference.cache
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.AssemblyInfoInputs.cache
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.AssemblyInfo.cs
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.csproj.CoreCompileInputs.cache
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.dll
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\refint\Course_06.dll
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.pdb
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\Course_06.genruntimeconfig.cache
+C:\Users\vivia\source\repos\Course_06\Course_06\obj\Debug\net6.0\ref\Course_06.dll
