@@ -1,0 +1,15 @@
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\bin\Debug\net6.0\Terceiro_Programa.exe
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\bin\Debug\net6.0\Terceiro_Programa.deps.json
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\bin\Debug\net6.0\Terceiro_Programa.runtimeconfig.json
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\bin\Debug\net6.0\Terceiro_Programa.dll
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\bin\Debug\net6.0\Terceiro_Programa.pdb
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.csproj.AssemblyReference.cache
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.AssemblyInfoInputs.cache
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.AssemblyInfo.cs
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.csproj.CoreCompileInputs.cache
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.dll
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\refint\Terceiro_Programa.dll
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.pdb
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\Terceiro_Programa.genruntimeconfig.cache
+C:\Users\informatica\source\repos\Terceiro_Programa\Terceiro_Programa\obj\Debug\net6.0\ref\Terceiro_Programa.dll
